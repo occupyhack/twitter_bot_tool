@@ -1,0 +1,5 @@
+This is a simple python twitter bot prototype I wrote that looked up data based on address info messaged to it. This worked by following anyone that had @replied the bot and sends them a message. This could be reworked in a lot of ways based on hash tags, whatever, but should be a decent outline for how python twitter works.
+
+On that note, python-twitter must be installed, and a twitter app must be created (I scrubbed all app specific info from this).
+
+One thing people have been interested in is an "I'm getting arrested" for the iPhone, and I wonder if this bot could be repurposed for something along those lines.
